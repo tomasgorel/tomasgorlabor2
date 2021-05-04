@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rename</string>
+    <string name="app_title">Rename your brand</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_login">Login</string>
+    <string name="login_register">Register</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_invalid_username">Invalid username</string>
+    <string name="register_email">Email</string>
+    <string name="login_invalid_credentials">Neteisingai įvestas vardas arba/ir slaptažodis</string>
+    <string name="register_invalid_credentials">Neteisingai įvesti duomenys</string>
+    <string name="search_loading_data">Prašau, palaukti duomenų</string>
+    <string name="search_error_reading_data">couldnt read data from API</string>
+    <string name="seach_no_results">No results for this query: </string>
+
+
+
+
+
+</resources>
